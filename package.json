@@ -1,5 +1,5 @@
 {
-  "name": "rails_task_manager",
+  "name": "rails-task-manager",
   "private": true,
   "dependencies": {
     "@rails/ujs": "^6.0.0",
